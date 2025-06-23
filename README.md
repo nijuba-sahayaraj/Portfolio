@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Hi, I’m @nijuba-sahayaraj
+- Hi, I’m Nijuba Sahayaraj
 
 I am a passionate technical writer specializing in creating clear and concise documentation for developers and users.
 I am continually improving my skills by working on open-source projects and practicing the documentation of APIs, software manuals, and technical guides.
@@ -39,7 +39,7 @@ I want to contribute to the documentation of open-source projects by:
 - Writing new sections for under-documented features
 - Providing tutorials and how-to guides for developers using these projects
 
-## 📫 How to reach me ...
+## How to reach me ...
 If you're interested in collaborating or have a project in need of documentation, feel free to reach out:
 - GitHub: [@nijuba-sahayaraj](https://github.com/nijuba-sahayaraj)
 - LinkedIn: https://www.linkedin.com/in/nijuba-sahayaraj/
