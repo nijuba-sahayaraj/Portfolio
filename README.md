@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Hi, I’m Nijuba Sahayaraj
+I’m Nijuba Sahayaraj
 
 I am a passionate technical writer specializing in creating clear and concise documentation for developers and users.
 I am continually improving my skills by working on open-source projects and practicing the documentation of APIs, software manuals, and technical guides.
@@ -22,24 +22,24 @@ I am working on documenting open-source APIs, focusing on:
 
 ### 2. Project Product Documentation
 I practice writing detailed and well-structured product documentation that help developers and users quickly understand:
-- The purpose of the project
-- How to install, configure, and run the software
-- Contribution guidelines for open-source collaboration
-- License and other important information
+- The purpose of the project.
+- How to install, configure, and run the software.
+- Contribution guidelines for open-source collaboration.
+- License and other important information.
 
 ### 3. User Guides and Manuals
 I am developing my skills in creating user-centric manuals, focusing on:
-- Step-by-step instructions for non-technical users
-- Troubleshooting guides for common issues
-- FAQ sections that help users solve problems independently
+- Step-by-step instructions for non-technical users.
+- Troubleshooting guides for common issues.
+- FAQ sections that help users solve problems independently.
 
 ### 4. Contributing to Open-Source Documentation
 I want to contribute to the documentation of open-source projects by:
-- Improving the clarity and consistency of existing documentation
-- Writing new sections for under-documented features
-- Providing tutorials and how-to guides for developers using these projects
+- Improving the clarity and consistency of existing documentation.
+- Writing new sections for under-documented features.
+- Providing tutorials and how-to guides for developers using these projects.
 
-## How to reach me ...
+## How to reach me
 If you're interested in collaborating or have a project in need of documentation, feel free to reach out:
 - GitHub: [@nijuba-sahayaraj](https://github.com/nijuba-sahayaraj)
 - LinkedIn: https://www.linkedin.com/in/nijuba-sahayaraj/
