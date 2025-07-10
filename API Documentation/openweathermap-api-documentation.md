@@ -1,5 +1,9 @@
 # OpenWeatherMap API Documentation
 
+## Introduction
+
+This API documentation provides details about the OpenWeatherMap API, enabling developers to retrieve weather data, forecasts, air pollution levels, and historical weather information.
+
 ## Base URL
 ```
 https://api.openweathermap.org/data/2.5
@@ -8,21 +12,10 @@ https://api.openweathermap.org/data/2.5
 ## Authentication
 This API uses an **API Key** for authentication. You must include your API key in requests as a query parameter:
 
-### Format:
 ```
 ?appid=YOUR_API_KEY
 ```
 
-## Introduction to the Document
-
-This document provides comprehensive details about the OpenWeatherMap API, enabling developers to retrieve weather data, forecasts, air pollution levels, and historical weather information. This guide includes endpoint definitions, authentication, request and response structures, error handling, and rate limits.
-
-## Intended Audience
-
-- **Software Developers:** Integrating real-time weather data into apps or platforms.
-- **Technical Writers:** Documenting weather API usage.
-- **Data Scientists & Analysts:** Analyzing meteorological trends.
-- **QA Engineers:** Testing weather data endpoints.
 
 ## Table of Contents
 
@@ -47,7 +40,7 @@ This document provides comprehensive details about the OpenWeatherMap API, enabl
   - `units`: (optional) `metric`, `imperial`, or `standard`
   - `lang`: (optional) Language code (e.g., `en`, `fr`, `es`)
 
-#### Example Request:
+#### Request:
 ```
 GET /weather?q=London&units=metric&appid=YOUR_API_KEY
 ```
@@ -79,7 +72,7 @@ GET /weather?q=London&units=metric&appid=YOUR_API_KEY
   - `appid`: Your API key
   - `units`: (optional) Unit format
 
-#### Example Request:
+#### Request:
 ```
 GET /forecast?q=New York&units=imperial&appid=YOUR_API_KEY
 ```
@@ -111,7 +104,7 @@ GET /forecast?q=New York&units=imperial&appid=YOUR_API_KEY
   - `lon`: Longitude
   - `appid`: Your API key
 
-#### Example Request:
+#### Request:
 ```
 GET /air_pollution?lat=50.04&lon=21.02&appid=YOUR_API_KEY
 ```
@@ -134,7 +127,7 @@ GET /air_pollution?lat=50.04&lon=21.02&appid=YOUR_API_KEY
 
 ## Historical Weather Data
 
-### Historical Weather by Coordinates
+### Get Historical Weather by Coordinates
 
 - **URL:** `/onecall/timemachine`
 - **Method:** `GET`
@@ -145,7 +138,7 @@ GET /air_pollution?lat=50.04&lon=21.02&appid=YOUR_API_KEY
   - `dt`: UNIX timestamp (UTC)
   - `appid`: Your API key
 
-#### Example Request:
+#### Request:
 ```
 GET /onecall/timemachine?lat=40.71&lon=-74.01&dt=1657046400&appid=YOUR_API_KEY
 ```
@@ -175,7 +168,7 @@ GET /onecall/timemachine?lat=40.71&lon=-74.01&dt=1657046400&appid=YOUR_API_KEY
   - `units`: (optional) Unit format
   - `appid`: Your API key
 
-#### Example Request:
+#### Request:
 ```
 GET /onecall?lat=48.85&lon=2.35&exclude=minutely&appid=YOUR_API_KEY
 ```
