@@ -13,7 +13,7 @@ https://api.openweathermap.org/data/2.5
 This API uses an **API Key** for authentication. You must include your API key in requests as a query parameter:
 
 ```
-?appid=YOUR_API_KEY
+appid=YOUR_API_KEY
 ```
 
 
