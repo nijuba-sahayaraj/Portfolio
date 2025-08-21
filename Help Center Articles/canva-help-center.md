@@ -14,7 +14,7 @@ Adding text is a way to personalize your designs, whether you're creating a soci
 
 2. From the left-side panel, click on the **“Text”** option.
 
-   ![Text Tool in Side Panel](https://example.com/images/text-tool.png)
+   ![Text Tool in Side Panel](https://github.com/nijuba-sahayaraj/Portfolio/blob/194b406d3cc564f5a9a48296e4cc9de3d5f7f92e/Help%20Center%20Articles/images/text-tool.png)
 
 3. Choose from:
    - **Add a heading**
