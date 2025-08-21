@@ -54,7 +54,7 @@ Resizing allows you to design multiple formats, such as Instagram posts, posters
 
    ![Resize Button in Canva Toolbar](https://example.com/images/resize-button.png)
 
-3. Enter your desired dimensions in **px**, **in**, **mm**, or **cm** from **custom sizes** catagory. You can also select from preset sizes.
+3. Enter your desired dimensions in **px**, **in**, **mm**, or **cm** from **custom sizes** category. You can also select from preset sizes.
 
    ![Enter Custom Dimensions](https://example.com/images/custom-dimensions.png)
 
