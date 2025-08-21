@@ -62,7 +62,8 @@ Resizing allows you to design multiple formats, such as Instagram posts, posters
 
 5. Canva will automatically adjust elements to the new size. Manually reposition or resize elements if needed.
 
-> [!NOTE] Free users will need to manually create a new design and copy elements over.
+> [!NOTE]
+> Free users will need to manually create a new design and copy elements over.
 
 Learn more: [How to Resize Your Design](https://www.canva.com/help/article/how-to-resize-your-design)
 
@@ -96,8 +97,7 @@ Download your final design in various formats suitable for print, web, or sharin
    ![Download Confirmation](https://example.com/images/download-confirmation.png)
 
 > [!NOTE]
-
-**Pro Tip:** For professional print jobs, always use **PDF Print** and enable **Crop marks and bleed**.
+> **Pro Tip:** For professional print jobs, always use **PDF Print** and enable **Crop marks and bleed**.
 
 Learn more: [Downloading Your Design](https://www.canva.com/help/article/downloading-your-design)
 
