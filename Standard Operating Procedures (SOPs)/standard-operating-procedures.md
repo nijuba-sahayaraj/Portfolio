@@ -1,4 +1,4 @@
-# 📄 Standard Operating Procedures (SOPs)
+# Standard Operating Procedures (SOPs)
 
 ## 1. SOP: Submitting a Leave Request
 
