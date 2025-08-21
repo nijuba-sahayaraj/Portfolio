@@ -21,11 +21,11 @@ Adding text is a way to personalize your designs, whether you're creating a soci
    - **Add a subheading**
    - **Add a body of text**
 
-   ![Text Options](Help Center Articles/images/text-tool.png)
+   ![Text Options](https://github.com/nijuba-sahayaraj/Portfolio/blob/ab940a920d1dad7a946fb15af0e00085ce4fc4b8/Help%20Center%20Articles/images/text-options.png)
 
 4. A text box will appear on your canvas. Click inside the box to type your text.
 
-   ![Editing Text Box](https://example.com/images/edit-text.png)
+   ![Editing Text Box](https://github.com/nijuba-sahayaraj/Portfolio/blob/ab940a920d1dad7a946fb15af0e00085ce4fc4b8/Help%20Center%20Articles/images/edit-text.png)
 
 5. Use the **toolbar at the top** to customize:
    - Font style  
@@ -34,7 +34,7 @@ Adding text is a way to personalize your designs, whether you're creating a soci
    - Alignment  
    - Effects (shadow, lift, outline, etc.)
 
-   ![Text Formatting Options](https://example.com/images/text-formatting.png)
+   ![Text Formatting Options](https://github.com/nijuba-sahayaraj/Portfolio/blob/ab940a920d1dad7a946fb15af0e00085ce4fc4b8/Help%20Center%20Articles/images/text-formatting.png)
 
 6. Drag the text box to reposition it anywhere in your design.
 
@@ -52,11 +52,11 @@ Resizing allows you to design multiple formats, such as Instagram posts, posters
 
 2. Click on the **“Resize”** button in the top-left toolbar.
 
-   ![Resize Button in Canva Toolbar](https://example.com/images/resize-button.png)
+   ![Resize Button in Canva Toolbar](https://github.com/nijuba-sahayaraj/Portfolio/blob/ab940a920d1dad7a946fb15af0e00085ce4fc4b8/Help%20Center%20Articles/images/resize-button.png)
 
 3. Enter your desired dimensions in **px**, **in**, **mm**, or **cm** from **custom sizes** category. You can also select from preset sizes.
 
-   ![Enter Custom Dimensions](https://example.com/images/custom-dimensions.png)
+   ![Enter Custom Dimensions](https://github.com/nijuba-sahayaraj/Portfolio/blob/ab940a920d1dad7a946fb15af0e00085ce4fc4b8/Help%20Center%20Articles/images/custom-dimensions.png)
 
 4. Choose:
    - **Resize** – changes your current design's dimensions.
@@ -79,24 +79,24 @@ Download your final design in various formats suitable for print, web, or sharin
 
 1. Click **“Share”** in the top-right corner of the design window.
 
-   ![Share Button in Canva](https://example.com/images/share-button.png)
+   ![Share Button in Canva](https://github.com/nijuba-sahayaraj/Portfolio/blob/ab940a920d1dad7a946fb15af0e00085ce4fc4b8/Help%20Center%20Articles/images/share-button.png)
 
-2. Select **“Download”** from the menu.
+4. Select **“Download”** from the menu.
 
-   ![Download Option from Share Menu](https://example.com/images/download-option.png)
+   ![Download Option from Share Menu](https://github.com/nijuba-sahayaraj/Portfolio/blob/ab940a920d1dad7a946fb15af0e00085ce4fc4b8/Help%20Center%20Articles/images/download-option.png)
 
-3. Choose the **File Type**:
+5. Choose the **File Type**:
    - **PDF Standard** – suitable for emailing.
    - **PDF Print** – high-quality print output.
    - **JPG** – good for social media and web.
 
-   ![Select File Type](https://example.com/images/select-file-type.png)
+   ![Select File Type](https://github.com/nijuba-sahayaraj/Portfolio/blob/ab940a920d1dad7a946fb15af0e00085ce4fc4b8/Help%20Center%20Articles/images/select-file-type.png)
 
-4. Optional: Select specific pages if your project has more than one.
+6. Optional: Select specific pages if your project has more than one.
 
-5. Click the **“Download”** button.
+7. Click the **“Download”** button.
 
-   ![Download Confirmation](https://example.com/images/download-confirmation.png)
+   ![Download Confirmation](https://github.com/nijuba-sahayaraj/Portfolio/blob/ab940a920d1dad7a946fb15af0e00085ce4fc4b8/Help%20Center%20Articles/images/download-confirmation.png)
 
 > [!NOTE]
 > **Pro Tip:** For professional print jobs, always use **PDF Print** and enable **Crop marks and bleed**.
