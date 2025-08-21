@@ -40,7 +40,9 @@ Adding text is a way to personalize your designs, whether you're creating a soci
 
 Learn more: [Adding Text in Canva](https://www.canva.com/help/article/adding-text-to-designs)
 
----## How to Resize a Design in Canva
+---
+
+## How to Resize a Design in Canva
 
 Resizing allows you to design multiple formats, such as Instagram posts, posters, or presentation slides.
 
