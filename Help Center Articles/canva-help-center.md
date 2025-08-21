@@ -21,7 +21,7 @@ Adding text is a way to personalize your designs, whether you're creating a soci
    - **Add a subheading**
    - **Add a body of text**
 
-   ![Text Options](https://example.com/images/text-options.png)
+   ![Text Options](Help Center Articles/images/text-tool.png)
 
 4. A text box will appear on your canvas. Click inside the box to type your text.
 
